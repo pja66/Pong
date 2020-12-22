@@ -1,2 +1,2 @@
 # Pong
-A javascript implmentation of the orginal Atari game pong.
+A JavaScript implementation of the Atari game pong.
